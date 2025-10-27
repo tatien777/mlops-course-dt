@@ -1,0 +1,15 @@
+creation_timestamp: 1761562845902
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1761562845902
+model_id: m-75eeaa7bea134f9d909e4ebad634d4c8
+name: Housing_prediction
+run_id: 2b4c92204d4b43a6ad53a727d9850618
+run_link: ''
+source: mlflow-artifacts:/296140907260071542/models/m-75eeaa7bea134f9d909e4ebad634d4c8/artifacts
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/296140907260071542/models/m-75eeaa7bea134f9d909e4ebad634d4c8/artifacts
+user_id: null
+version: 2

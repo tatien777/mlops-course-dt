@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/296140907260071542
+creation_time: 1761485330189
+experiment_id: '296140907260071542'
+last_update_time: 1761485330189
+lifecycle_stage: active
+name: housing_price_training

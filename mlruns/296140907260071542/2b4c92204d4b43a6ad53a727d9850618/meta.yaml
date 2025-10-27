@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/296140907260071542/2b4c92204d4b43a6ad53a727d9850618/artifacts
+end_time: 1761560049357
+entry_point_name: ''
+experiment_id: '296140907260071542'
+lifecycle_stage: active
+run_id: 2b4c92204d4b43a6ad53a727d9850618
+run_name: housing_linear_regression_6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761560044210
+status: 3
+tags: []
+user_id: dt
