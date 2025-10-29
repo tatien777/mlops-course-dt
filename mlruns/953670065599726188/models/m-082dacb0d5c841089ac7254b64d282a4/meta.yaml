@@ -1,0 +1,10 @@
+artifact_location: file:///home/dt/ML-Ops/mlops-course-students/mlruns/953670065599726188/models/m-082dacb0d5c841089ac7254b64d282a4/artifacts
+creation_timestamp: 1761736437688
+experiment_id: '953670065599726188'
+last_updated_timestamp: 1761736441717
+model_id: m-082dacb0d5c841089ac7254b64d282a4
+model_type: null
+name: iris_model
+source_run_id: 0b0692b389dd488987c5980b8c6be5e8
+status: 2
+status_message: null

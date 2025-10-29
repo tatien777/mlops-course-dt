@@ -1,0 +1,6 @@
+artifact_location: file:///home/dt/ML-Ops/mlops-course-students/mlruns/953670065599726188
+creation_time: 1761736436625
+experiment_id: '953670065599726188'
+last_update_time: 1761736436625
+lifecycle_stage: active
+name: iris_training

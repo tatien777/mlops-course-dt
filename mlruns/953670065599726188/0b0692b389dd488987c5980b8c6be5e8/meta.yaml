@@ -1,0 +1,14 @@
+artifact_uri: file:///home/dt/ML-Ops/mlops-course-students/mlruns/953670065599726188/0b0692b389dd488987c5980b8c6be5e8/artifacts
+end_time: 1761736441745
+entry_point_name: ''
+experiment_id: '953670065599726188'
+lifecycle_stage: active
+run_id: 0b0692b389dd488987c5980b8c6be5e8
+run_name: iris_training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761736437609
+status: 3
+tags: []
+user_id: dt

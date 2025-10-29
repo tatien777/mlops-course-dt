@@ -1,0 +1,15 @@
+creation_timestamp: 1761736441735
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1761736441735
+model_id: m-082dacb0d5c841089ac7254b64d282a4
+name: iris_model
+run_id: 0b0692b389dd488987c5980b8c6be5e8
+run_link: null
+source: models:/m-082dacb0d5c841089ac7254b64d282a4
+status: READY
+status_message: null
+storage_location: file:///home/dt/ML-Ops/mlops-course-students/mlruns/953670065599726188/models/m-082dacb0d5c841089ac7254b64d282a4/artifacts
+user_id: null
+version: 1
