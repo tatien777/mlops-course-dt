@@ -1,22 +1,19 @@
 from fastapi import FastAPI
-import mlflow.sklearn
-import pandas as pd 
+
+
 import uvicorn 
 from pydantic import BaseModel
 from enum import Enum
-from scripts.session3.router import predict,utils
+# from scripts.session3.router import predict,utils
 
 
 app = FastAPI()
-app.include_router(predict.housing_router)
-app.include_router(utils.utils_router)
+# app.include_router(predict.housing_router)
+# app.include_router(utils.utils_router)
 
 @app.get("/")
 def read_root() -> dict[str,str]:
     return {"message": "Hello, FastAPI!"}
-
-
-
 
 class Method(str,Enum):
         add = "add"
@@ -47,4 +44,4 @@ def calculate(request: CalculateRequest) -> CalculateResponse:
     return CalculateResponse(result=result)
 
 if __name__ == '__main__':
-    uvicorn.run("api:app",host="0.0.0.0",port=8000,reload=True)
+    uvicorn.run("api:app",host="0.0.0.0",port=3000,reload=True)
